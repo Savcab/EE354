@@ -1,0 +1,13 @@
+Test number    1: Found  18 decimal = 12 hex as the largest divisible by 7 number.
+           Clock taken for this test = 35. 
+
+Test number    2: Could not find any divisible by 7 number.  Max_tb remained as   0. 
+           Clock taken for this test = 17. 
+
+Test number    3: Could not find any divisible by 7 number.  Max_tb remained as   0. 
+           Clock taken for this test = 17. 
+
+Test number    4: Could not find any divisible by 7 number.  Max_tb remained as   0. 
+           Clock taken for this test = 17. 
+
+All tests concluded.
